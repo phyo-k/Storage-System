@@ -1,0 +1,3 @@
+﻿  static_block_memory.c
+C:\Users\khj00\source\repos\static_block_FTL\static_block_FTL\static_block_memory.c(155,6): warning C4101:  'i' :참조되지 않은 지역 변수입니다.
+  static_block_FTL.vcxproj -> C:\Users\khj00\source\repos\static_block_FTL\Debug\static_block_FTL.exe
